@@ -1,0 +1,120 @@
+.bg{
+    background-image: url(60423.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.logo{
+    position: relative;
+    top: 8px;
+    left: 90px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.text1{
+position: absolute;
+top: 15px;
+}
+.about{
+    text-decoration: underline;
+}
+.link{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    text-align: center;
+}
+.img{
+    margin-left: 1850px;
+    margin-top: -100px;
+}
+.h1{
+    font-weight: bolder;
+    font-size: 100px;
+    color: white;
+}
+.p{
+    font-size: 26px;
+    text-align: left;
+    color: white;
+}
+/* .box2{
+    position: absolute;
+}
+.btn1{
+    position: relative;
+    
+} */
+hr{
+    width: 188px;
+    position: relative;
+    left:-530px;
+    top:37px;
+}
+.btn{
+    width: 210px;
+    height: 50px;
+    font-size: 30px;
+    background-color: transparent;
+    color: white;
+    border: solid 1px white;
+    margin-left: -664px;
+    position: relative;
+}
+.h6{
+    font-size: 24px;
+    color: white;
+    text-align: left;
+}
+.box{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.img1{
+    width: 400px;
+    height: 600px;
+}
+.img2{
+width: 450px;
+height: 680px;
+margin-left: 200px;
+top: 145px;
+position: absolute;
+right: 300px;
+/* z-index: -400px; */
+
+}
+.img3{
+width: 400px;
+height: 600px;
+/* z-index: -400px; */
+}
+.text{
+    font-size: large;
+}
+
+.arw{
+    position: relative;
+    right: 210px;
+    top: -270px;
+    z-index: -3px;
+    background-color: blueviolet;
+}
+.arw1{
+    position: relative;
+    right: 195px;
+    top: -270px;
+    z-index: -3px;
+    background-color: blue;
+}
+.dot{
+    height: fit-content;
+    /* margin-left: 1550px;*/
+    margin-top: 690px;
+    background-color: red;
+}
